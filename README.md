@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hemant+Kumar+Tyagi;AI+%26+Generative+AI+Engineer;Agentic+Applications+%7C+Enterprise+Automation;RAG+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Predictive+ML" alt="Hemant Kumar Tyagi — AI & Generative AI Engineer | Agentic Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hemant+Kumar+Tyagi;AI+%26+Generative+AI+Engineer;Agentic+Applications+%7C+Enterprise+Automation;RAG+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Azure" alt="Hemant Kumar Tyagi — AI & Generative AI Engineer | Agentic Applications" />
 
 <br/>
 
 **AI & Generative AI Engineer | Agentic Applications**
 
-**Application Development Team Lead @ TELUS International**
+**Application Development Team Lead · TELUS International · Feb 2022 – Oct 2026**
 
 <br/>
 
@@ -16,7 +16,7 @@
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./hemant_tyagi_aiml_engineer.pdf)
 
 ![Location](https://img.shields.io/badge/Location-Delhi%20NCR,%20India-informational?style=flat-square&logo=googlemaps&logoColor=white)
-![Experience](https://img.shields.io/badge/Software%20Engineering-Since%202011-blue?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-Enterprise%20Software%20Development-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Agentic%20Applications-7AA2F7?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=hemanttyagi1001&label=Profile%20Views&color=7AA2F7&style=flat-square)
 
@@ -26,20 +26,19 @@
 
 ## 👋 About Me
 
-I'm an **AI & Generative AI Engineer** with extensive experience in enterprise software development
-and hands-on engineering of AI-powered applications. My work spans **predictive maintenance,
-Generative AI, and agentic applications**, built on a software engineering career that began in 2011.
+I'm an **AI & Generative AI Engineer** with extensive enterprise software development experience
+and hands-on expertise in **Python, LangGraph, LangChain, FastAPI, and .NET Core APIs**.
 
-I build **enterprise knowledge assistants using Retrieval-Augmented Generation (RAG)** and agentic
+I build **enterprise knowledge assistants using Retrieval-Augmented Generation (RAG)** and single-agent
 workflows that connect conversational interfaces with **HR and service-management systems**.
-I use **Python, LangGraph, LangChain, FastAPI, and .NET Core APIs**, supported by a strong foundation
-in backend development, databases, and cloud integration.
+These workflows use **MCP tools and enterprise APIs**, supported by a strong foundation in backend
+development, databases, and cloud integration.
 
-At **TELUS International**, I develop enterprise AI applications that combine knowledge retrieval
-and API-driven automation to support business workflows.
+My work at **TELUS International** includes enterprise AI applications combining knowledge retrieval
+and API-driven automation, alongside hands-on contributions to **pharmacy application modernization**.
 
 - 🧠 **Focus areas** — RAG, intent recognition, conversation context, tool calling, and MCP integrations
-- 🔧 **Applied ML** — Predictive maintenance, anomaly detection, and equipment-health insights from telemetry and sensor data
+- 🔧 **Enterprise applications** — Pharmacy modernization, HRMS workflows, and backend API integration
 - 💬 **Ask me about** — Enterprise AI assistants, LangGraph workflows, MCP tools, and Python/.NET API integration
 - 📫 **Reach me** — [hemanttyagi1001@gmail.com](mailto:hemanttyagi1001@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hemanttyagi1001) · +91-9548550009
 
@@ -51,7 +50,7 @@ and API-driven automation to support business workflows.
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLM Application Development](https://img.shields.io/badge/LLM%20Application%20Development-5A67D8?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-5A67D8?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-5A67D8?style=flat-square)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5A67D8?style=flat-square)
@@ -60,18 +59,9 @@ and API-driven automation to support business workflows.
 ![Embeddings](https://img.shields.io/badge/Embeddings-5A67D8?style=flat-square)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-5A67D8?style=flat-square)
 
-**AI/ML & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-0467DF?style=flat-square)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-0467DF?style=flat-square)
-![Time-Series Analysis](https://img.shields.io/badge/Time--Series%20Analysis-0467DF?style=flat-square)
-
 **Backend & APIs**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -87,8 +77,6 @@ and API-driven automation to support business workflows.
 ![App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=flat-square)
 ![Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20Elastic%20Beanstalk%20%7C%20RDS-FF9900?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Databases & Vector Search**
 
@@ -104,7 +92,13 @@ and API-driven automation to support business workflows.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![AI-assisted Frontend Development](https://img.shields.io/badge/AI--assisted%20Frontend%20Development-4B5563?style=flat-square)
+
+**Pharmacy Modernization**
+
+![Pascal](https://img.shields.io/badge/Pascal-4B5563?style=flat-square)
+![Delphi](https://img.shields.io/badge/Delphi-CC0000?style=flat-square&logo=delphi&logoColor=white)
 
 ---
 
@@ -142,22 +136,21 @@ and API-driven automation to support business workflows.
 ### 📚 GenAI Knowledge Assistant with Agentic Workflows
 *TELUS International*
 
-- Developed an enterprise knowledge assistant using a **single agent with LangGraph and LangChain**, combining RAG with tools exposed through an **MCP server**.
+- Developed an enterprise knowledge assistant using a **single agent with LangGraph and LangChain**, combining RAG with enterprise API integrations.
 - Implemented **intent recognition, conversation context management, and tool selection** to handle knowledge queries and business actions.
 - Retrieved enterprise documents to answer knowledge and HR policy questions **with supporting references**.
-- Exposed **leave application, ticket creation, and ticket-status retrieval** as MCP tools, each invoking the corresponding enterprise API.
-- Collected and validated required details for leave applications and ticket creation, and presented ticket progress, assignment, and recorded updates through conversational responses.
+- Integrated enterprise APIs for **ticket creation and ticket-status retrieval**.
+- Collected and validated required details for business actions, and presented ticket progress, assignment, and updates through conversational responses.
 
-**Stack:** `Python` · `LangGraph` · `LangChain` · `LangSmith` · `FastAPI` · `MCP` · `Azure OpenAI` · `Azure AI Search` · `Azure SQL Server`
+**Stack:** `Python` · `LangGraph` · `LangChain` · `FastAPI` · `Azure OpenAI` · `Azure AI Search` · `Azure SQL Server`
 
-### 🔧 AI Predictive Maintenance & Fleet Intelligence
+### 💊 Pharmacy Management Software — Modernization
 *TELUS International*
 
-- Developed **predictive maintenance and anomaly-detection capabilities** for heavy construction equipment fleets, including backhoe loaders, excavators, dozers, articulated trucks, off-highway trucks, and compactors.
-- Built Python-based **data-processing and feature-engineering pipelines** to prepare equipment telemetry and sensor data for predictive modeling.
-- Integrated model predictions and equipment-health insights into **.NET Core APIs and operational dashboards** to support maintenance planning and fleet monitoring.
+- Worked as a **hands-on individual contributor**, developing and enhancing pharmacy modules as part of the modernization team.
+- The application supports **prescriptions, patient and prescriber records, clinical safety checks, inventory, billing, and healthcare-system integrations**.
 
-**Stack:** `Python` · `scikit-learn` · `pandas` · `NumPy` · `.NET Core APIs` · `PostgreSQL`
+**Stack:** `.NET Core` · `Microsoft SQL Server` · `Pascal` · `Delphi`
 
 ### 👥 MyHiring HRMS
 *Teleperformance*
@@ -174,9 +167,9 @@ and API-driven automation to support business workflows.
 
 ## 💼 Experience
 
-**🟢 Application Development Team Lead**
-*TELUS International · Noida, India · February 2022 – Present*
-> Develop enterprise AI applications combining Generative AI, knowledge retrieval, and API-driven automation. Build Python, FastAPI, and .NET Core backend services to integrate AI workflows with enterprise systems. Work includes the GenAI knowledge assistant with agentic workflows and predictive maintenance for construction equipment fleets.
+**Application Development Team Lead**
+*TELUS International · Noida, India · February 2022 – October 2026*
+> Developed enterprise AI applications combining Generative AI, knowledge retrieval, and API-driven business automation. Built Python, FastAPI, and .NET Core backend services to integrate AI workflows with enterprise systems, and contributed as a hands-on individual contributor to pharmacy application modernization.
 
 **Assistant Manager, Software Development**
 *Teleperformance · Gurugram, India · May 2019 – February 2022*
@@ -189,10 +182,6 @@ and API-driven automation to support business workflows.
 **Software Developer**
 *Himja Software · Dehradun, India · May 2014 – January 2018*
 > Developed business web applications using ASP.NET MVC, C#, and SQL Server, translating client requirements into application features. Built responsive interfaces using JavaScript, jQuery, and Bootstrap, and maintained existing application modules.
-
-**Software Developer**
-*Dreamz Infinite · Delhi, India · September 2011 – April 2014*
-> Developed data-driven web applications using ASP.NET MVC, C#, and SQL Server. Created stored procedures and database queries, and contributed to application development, deployment, and support.
 
 ---
 
@@ -227,7 +216,7 @@ and API-driven automation to support business workflows.
 
 ## 🤝 Let's Connect
 
-Connect with me to discuss **Generative AI, agentic applications, enterprise automation, and predictive ML**.
+Connect with me to discuss **Generative AI, agentic applications, enterprise automation, and application modernization**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanttyagi1001)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanttyagi1001@gmail.com)
